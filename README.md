@@ -51,3 +51,14 @@ _Live Example: https://gatsby.vercel.app_
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+
+Steps to run:
+
+- nvm install 18.0.0
+- nvm use 18.0.0
+- npm install
+- npm run develop
+
+Git:
+
+- git add . && git commit -m "C" && git push origin main
